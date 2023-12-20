@@ -42,16 +42,7 @@ body::-webkit-scrollbar {
   grid-template-columns: 1fr;
   padding: 4rem 10.2rem;
   gap: 1rem;
-  background: url("images/wheat.png"), linear-gradient(
-	to right,
-	#462523 0,
-       	#cb9b51 22%, 
-	#f6e27a 45%,
-	#f6f2c0 50%,
-	#f6e27a 55%,
-	#cb9b51 78%,
-	#462523 100%
-	);
+  background: url("images/wheat.png"), linear-gradient(to right,#462523 0,#cb9b51 22%, #f6e27a 45%,#f6f2c0 50%,#f6e27a 55%,#cb9b51 78%,#462523 100%);
   background-size: cover;
   justify-content: space-evenly;
 }
